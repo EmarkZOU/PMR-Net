@@ -26,3 +26,15 @@ We can observe that PMR-Net results in more accurate segmentation results of lun
 ![image-20240919210145071](images/image-20240919210145071.png)
 
 ![image-20240919210205649](images/image-20240919210205649.png)
+
+
+## Usage
+
+The article is currently under submission. Due to the confidentiality agreement, the full code cannot be made public at this time. Once the article is accepted, the code will be made open source.
+
+
+
+
+
+
+
