@@ -4,11 +4,12 @@ This is the official repository of the paper titled "PMR-Net: Parallel Multi-Res
 
 
 
+
 ## Workflow
 
 
 
-![image-20240919205925033](C:\Users\1ce\AppData\Roaming\Typora\typora-user-images\image-20240919205925033.png)
+![image-20240919205925033](images/image-20240919205925033.png)
 
 *For a detailed explanation of each component, please refer to our paper.*
 
