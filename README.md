@@ -2,7 +2,7 @@
 
 This is the official repository of the paper titled "PMR-Net: Parallel Multi-Resolution Encoder-Decoder Network Framework for Medical Image Segmentation" which introduces a novel parallel multi-resolution encoder-decoder network for medical image segmentation.
 
-
+The article is currently under submission. Due to the confidentiality agreement, the full code cannot be made public at this time. Once the article is accepted, the code will be made open source.
 
 
 ## Workflow
